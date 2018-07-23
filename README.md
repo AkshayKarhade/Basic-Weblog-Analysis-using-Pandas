@@ -1,4 +1,4 @@
-# Basic-Bebsite-Log Analysis
+# Basic-Website-Log Analysis
 
 This is a basic analysis done of a sample Website log. I tried but wasn't able to find a dataset for website logs so I 
 tried to make the sample data myself which is why I am referring to this project as a very easy one. 
